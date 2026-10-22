@@ -1,0 +1,16 @@
+{
+  "model_name": "Base Calibrated Random Forest",
+  "model_type": "CalibratedClassifierCV",
+  "n_features": 51,
+  "classes": [
+    0,
+    1,
+    2
+  ],
+  "test_matches": 357,
+  "test_start": "2025-08-15",
+  "test_end": "2026-05-24",
+  "log_loss": 1.0409,
+  "market_log_loss": 1.0161,
+  "purpose": "Premier League pre-match H/D/A probability prediction"
+}
