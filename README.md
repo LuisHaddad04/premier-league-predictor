@@ -70,8 +70,8 @@ The model uses **51 engineered features**, including:
 | Features | 51 |
 | Test matches | 357 |
 | Evaluation period | August 2025 – May 2026 |
-| Model log loss | 1.0409 |
-| Betting-market benchmark log loss | 1.0161 |
+| Model log loss | 0.9969 |
+| Betting-market benchmark log loss | 0.9871 |
 
 The current model performs slightly below the betting-market benchmark on log loss. Improving predictive performance and evaluating additional modeling approaches remain ongoing priorities.
 
