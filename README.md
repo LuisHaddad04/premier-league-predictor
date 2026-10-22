@@ -142,6 +142,6 @@ This is an independent project developed to strengthen my experience in sports a
 
 It reflects my interest in using data to better understand football performance and build practical tools for analyzing the game.
 
-**Developed by João Haddad**
+**Developed by Luis Haddad**
 
 [GitHub Profile](https://github.com/LuisHaddad04)
